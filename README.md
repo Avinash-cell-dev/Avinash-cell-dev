@@ -38,3 +38,30 @@ I enjoy turning ideas into visuals, exploring new creative territories, and occa
 - Turning random ideas into actual projects.
 
 > Still learning. Still experimenting. Never done exploring.
+
+
+---
+
+## ✦ WORKS
+
+*A collection of things I've designed, explored, and experimented with.*
+
+| PROJECT | CATEGORY | STATUS |
+|:---|:---|:---|
+| Brand Identity Experiments | Visual Branding | Exploring |
+| Personal GitHub Profile | Digital Experiment | Building |
+
+---
+
+## 🧪 THE PLAYGROUND
+
+This is where random ideas come to life.
+
+- Things I'm curious about.
+- Experiments that may or may not work.
+- New tools and techniques.
+- Projects that start with "what if...?"
+
+**Not everything needs to become a masterpiece. Some things are just experiments.**
+
+
