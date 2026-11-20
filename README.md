@@ -65,3 +65,34 @@ This is where random ideas come to life.
 **Not everything needs to become a masterpiece. Some things are just experiments.**
 
 
+---
+
+## 📡 ACTIVITY TRANSMISSION
+
+<div align="center">
+
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=Avinash-cell-dev&color=2855D9&style=flat-square&label=PROFILE+VISITS)
+
+![GitHub followers](https://img.shields.io/github/followers/Avinash-cell-dev?style=flat-square&color=2855D9&label=FOLLOWERS)
+
+</div>
+
+
+---
+
+<div align="center">
+
+### A LITTLE MORE ABOUT THIS SPACE.
+
+*Part portfolio. Part playground. Part digital diary.*
+
+<br/>
+
+**MAKE THINGS. STAY CURIOUS. REPEAT.**
+
+<br/>
+
+`LAST UPDATED: CONSTANTLY EVOLVING`
+
+</div>
+
